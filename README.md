@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cfkim
-- 👀 I’m interested in making coding a habit
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on websites
+- 👀 
+- 🌱
+- 💞️ 
 - 📫 How to reach me christine.fth.kim@gmail.com
 
 <!---

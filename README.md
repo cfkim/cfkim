@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @cfkim
-- 👀 
-- 🌱
-- 💞️ 
 - 📫 How to reach me christine.fth.kim@gmail.com
 
 <!---
